@@ -1,0 +1,18 @@
+# Ignore all contents inside cloned_site folder
+cloned_site/*
+!cloned_site/.gitkeep
+
+# Ignore everything else EXCEPT .venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Uncomment this if you want to ignore .venv again in the future:
+# .venv/
