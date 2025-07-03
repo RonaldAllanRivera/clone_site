@@ -1,4 +1,3 @@
-````markdown
 # 🕸️ Playwright Site Cloner
 
 A powerful script to **clone any modern website**, including **JavaScript-rendered content**, and make it work offline.
